@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Holivane/nodejs-rest.git"
+    "url": "git+https://github.com/Holivane/projeto1.git"
   },
   "author": "holivane holanda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Holivane/nodejs-rest/issues"
+    "url": "https://github.com/Holivane/projeto1/issues"
   },
-  "homepage": "https://github.com/Holivane/nodejs-rest#readme",
+  "homepage": "https://github.com/Holivane/projeto1#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
