@@ -8,4 +8,4 @@ const conexao = mysql.createConnection({
     database: 'agenda-pet'
 })
 
-module.exports = conexao
+module.exports = conexao 
